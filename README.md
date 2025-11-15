@@ -1,6 +1,6 @@
 
 
-### A passionate developer from around the world
+### .NET Developer
 
 - 🌱 I'm currently learning **DSA and .NET**
 

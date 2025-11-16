@@ -3,7 +3,7 @@
 ### .NET Developer && Pythonic Solutions
 ![image](https://github.com/milkaaig/milkaaig/blob/main/On%20My%20Way%20Reaction%20GIF%20by%20OceanX.gif?raw=true)
 
-- 🌱 I'm currently learning **DSA and .NET**
+- 🌱  **DSA and .NET**
 
 - 📫 How to reach me **milkaaigetachew@gmail.com**
 
